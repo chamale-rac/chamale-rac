@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamale-rac&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamale-rac&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamale-rac&show_icons=true&count_private=true)
 
