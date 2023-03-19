@@ -5,16 +5,16 @@ I'm Samuel, a CS student based in Guatemala. <br/> ![Profile views](https://gpvc
 ## 🔧 Technologies & Tools (Poquito)
 
 #### Databases:
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 #### Programming languages:
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 #### Web development:
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ## 📊 GitHub Stats
 
