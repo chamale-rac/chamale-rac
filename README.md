@@ -1,15 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**chamale-rac/chamale-rac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a [Your Role or Profession] based in [Your Location]. 
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[Insert a list of programming languages, frameworks, libraries, and tools you are familiar with.]
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://img.shields.io/github/followers/chamale-rac?label=Followers&style=social)
+![GitHub stats](https://img.shields.io/github/stars/chamale-rac/chamale-rac?style=social)
+![GitHub stats](https://img.shields.io/github/last-commit/chamale-rac/chamale-rac?style=plastic)
+
+
+## 📈 Profile Views 
+
+![Profile views](https://gpvc.arturio.dev/chamale-rac)
