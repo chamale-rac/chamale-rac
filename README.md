@@ -4,7 +4,7 @@ I'm Samuel, a CS student based in Guatemala.
 
 ## 🔧 Technologies & Tools (Poquito)
 
-Databases:
+#### Databases:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
 
 PostgreSQL - PostgreSQL icon
