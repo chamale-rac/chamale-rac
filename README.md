@@ -8,12 +8,12 @@ Databases:
 MongoDB - MongoDB icon
 PostgreSQL - PostgreSQL icon
 Programming languages:
-
+</br>
 Python - Python icon
 C++ - C++ icon
 Java - Java icon
 Web development:
-
+</br>
 ReactJS - ReactJS icon
 Flask - Flask icon
 CSS - CSS icon
