@@ -7,13 +7,13 @@ I'm Samuel, a CS student based in Guatemala.
 Databases:
 MongoDB - MongoDB icon
 PostgreSQL - PostgreSQL icon
-Programming languages:
 </br>
+Programming languages:
 Python - Python icon
 C++ - C++ icon
 Java - Java icon
-Web development:
 </br>
+Web development:
 ReactJS - ReactJS icon
 Flask - Flask icon
 CSS - CSS icon
