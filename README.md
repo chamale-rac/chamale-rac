@@ -1,10 +1,22 @@
 # Hi there 👋
 
-I'm [Your Name], a [Your Role or Profession] based in [Your Location]. 
+I'm Samuel, a CS student based in Guatemala. 
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools (Poquito)
 
-[Insert a list of programming languages, frameworks, libraries, and tools you are familiar with.]
+Databases:
+MongoDB - MongoDB icon
+PostgreSQL - PostgreSQL icon
+Programming languages:
+
+Python - Python icon
+C++ - C++ icon
+Java - Java icon
+Web development:
+
+ReactJS - ReactJS icon
+Flask - Flask icon
+CSS - CSS icon
 
 ## 📊 GitHub Stats
 
