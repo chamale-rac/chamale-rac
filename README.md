@@ -1,6 +1,9 @@
 # Hi there 👋
 
-I'm Samuel, a CS student based in Guatemala. <br/> ![Profile views](https://gpvc.arturio.dev/chamale-rac)
+I'm Samuel, a CS student based in Guatemala. 
+<!---
+<br/> ![Profile views](https://gpvc.arturio.dev/chamale-rac)
+-->
 
 ## 🔧 Technologies & Tools (Poquito)
 
