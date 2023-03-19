@@ -8,10 +8,7 @@ I'm [Your Name], a [Your Role or Profession] based in [Your Location].
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://img.shields.io/github/followers/chamale-rac?label=Followers&style=social)
-![GitHub stats](https://img.shields.io/github/stars/chamale-rac/chamale-rac?style=social)
-![GitHub stats](https://img.shields.io/github/last-commit/chamale-rac/chamale-rac?style=plastic)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamale-rac&layout=compact)
 
 ## 📈 Profile Views 
 
