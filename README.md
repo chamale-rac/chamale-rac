@@ -23,4 +23,4 @@ I'm Samuel, a CS student based in Guatemala.
 
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=chamale-rac&layout=compact&theme=dark) 
 </br>
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chamale-rac&layout=compact&theme=dark&langs_count=8)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chamale-rac&layout=compact&theme=dark&langs_count=5)
