@@ -8,4 +8,4 @@ I'm Samuel, a CS student based in Guatemala.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,postgres,py,raspberrypi,react,stackoverflow,vscode,bash,latex,md,nodejs,vite)](https://skillicons.dev)
 
 ## 🕹️ Alguna vez he usado (Have ever used):
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,aws,blender,bootstrap,c,cs,cpp,codepen,flask,eclipse,express,figma,firebase,java,kotlin,linux,materialui,mongodb,netlify,replit,unity,threejs,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,aws,blender,bootstrap,c,cs,cpp,codepen,flask,eclipse,express,figma,firebase,java,kotlin,linux,materialui,mongodb,netlify,replit,unity,threejs,tailwind,github)](https://skillicons.dev)
