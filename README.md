@@ -1,5 +1,4 @@
-# Hi there 👋
+En el entretejer le deseé, renege. Fe le debe referente, el que quede esté siempre presente. Ese el efervescente de él. 
 
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=chamale-rac&layout=compact&theme=dark) 
-
+- Samuel Chamalé
 
