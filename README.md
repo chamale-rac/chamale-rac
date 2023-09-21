@@ -7,7 +7,7 @@ De los momentos artificiales protagonizados por seres desmemoriados y sedados po
 Repito, repito y repito.
 Cuánto anhelo olvidarte, me alegraría no haberte conocido. 
 
-Desde el comienzo de mis días te conozco. Te alimentas de la fuente interminable y de vez en cuando, solo cuando me recuerdas, me escupes pequeños gargajos.  
+Te alimentas de la fuente interminable y de vez en cuando, solo cuando me recuerdas, me escupes pequeños gargajos.  
 
 Quizá cuando el reloj en el páramo se detenga yo logre olvidarte. Solo ignorarte ignorancia me libraría de este embrujo.
 
