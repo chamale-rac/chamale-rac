@@ -11,5 +11,4 @@ Te alimentas de la fuente interminable y de vez en cuando, solo cuando me recuer
 
 Quizá cuando el reloj en el páramo se detenga yo logre olvidarte. Solo ignorarte ignorancia me libraría de este embrujo.
 
-— Samuel Chamalé
-
+— EL AUTOR
