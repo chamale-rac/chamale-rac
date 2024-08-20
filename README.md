@@ -11,8 +11,6 @@ Te alimentas de la fuente interminable y de vez en cuando, solo cuando me recuer
 
 Quizá cuando el reloj en el páramo se detenga yo logre olvidarte. Solo ignorarte ignorancia me libraría de este embrujo.
 
-— EL AUTOR
-
 ![IMG_9058](https://github.com/chamale-rac/chamale-rac/assets/63200593/697a564b-6de0-4fd7-be34-e149e9f87fa7)
 
-![](https://komarev.com/ghpvc/?username=chamale-rac&style=flat-square&color=grey&label=Hi!)
+![](https://komarev.com/ghpvc/?username=chamale-rac&style=flat-square&color=grey&label=fmi)
