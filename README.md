@@ -14,4 +14,3 @@ Quizá cuando el reloj en el páramo se detenga yo logre olvidarte. Solo ignorar
 ![IMG_9058](https://github.com/chamale-rac/chamale-rac/assets/63200593/697a564b-6de0-4fd7-be34-e149e9f87fa7)
 
 ![COUNTER](https://komarev.com/ghpvc/?username=chamale-rac&style=flat-square&color=grey&label=fmi)
-![HIDDEN](https://uptight-candis-automaton-5cb8b405.koyeb.app/a0982345098asdf098asdolfjh123409871234i.svg?)
