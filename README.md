@@ -18,3 +18,5 @@ Oro al dios de los que oran. Y pido al dios que me escucha que borre de mi exist
 ¿Qué soy? Incierto es pues, y si lo dudo debo poner en duda la conciencia ajena. Como amo pues a lo que es, lo que será y dejaré ¿Como quiero lo que me da este mundo?
 
 ![IMG_9058](https://github.com/chamale-rac/chamale-rac/assets/63200593/697a564b-6de0-4fd7-be34-e149e9f87fa7)
+
+![zu_v0-02](https://github.com/user-attachments/assets/c1324ccb-d210-4eb4-a052-739c341b1e34)
